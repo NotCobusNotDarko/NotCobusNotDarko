@@ -1,6 +1,6 @@
-<img align="" width="160" src="https://github.com/NotCobusNotDarko/NotCobusNotDarko/blob/master/NotDarkoNotCobusLogo.png?raw=true" />
-<p align="center" valign="center"><a>Cobus</a><a href="https://cobus.io">Website</a> | <a href="https://twitter.com/cobusbernard">Twitter</a> | <a href="https://www.linkedin.com/in/cobusbernard">LinkedIn</a></p>
-<p align="center" valign="center"><a>Darko</a><a href="https://ruptwelve.net">Website</a> | <a href="https://twitter.com/darkosubotica">Twitter</a> | <a href="https://www.linkedin.com/in/darko-mesaro%C5%A1-02b66622/">LinkedIn</a></p>
+<img align="center" width="400" src="https://github.com/NotCobusNotDarko/NotCobusNotDarko/blob/master/NotDarkoNotCobusLogo.png?raw=true" />
+<p align="center" valign="center"><a>Cobus </a><a href="https://cobus.io">Website</a> | <a href="https://twitter.com/cobusbernard">Twitter</a> | <a href="https://www.linkedin.com/in/cobusbernard">LinkedIn</a></p>
+<p align="center" valign="center"><a>Darko </a><a href="https://ruptwelve.net">Website</a> | <a href="https://twitter.com/darkosubotica">Twitter</a> | <a href="https://www.linkedin.com/in/darko-mesaro%C5%A1-02b66622/">LinkedIn</a></p>
 
 # Stuff™
 :speaking_head: :cloud: :computer:
